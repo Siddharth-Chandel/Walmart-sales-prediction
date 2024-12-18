@@ -73,14 +73,14 @@ jupyter notebook report.ipynb
 
 Alternatively, view the report directly in report.html.
 
-$$ 🤝 Contributions
+## 🤝 Contributions
 Contributions are welcome! If you'd like to improve the project:
 
 1. Fork the repository.
 2. Create a new branch: git checkout -b feature-branch.
 3. Submit a pull request.
 
-##📬 Contact
+## 📬 Contact
 Siddharth Chandel
 
 - Email: siddharthchandel2004@gmail.com
