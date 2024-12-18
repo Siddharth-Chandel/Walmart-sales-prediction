@@ -60,9 +60,9 @@ cd Walmart-sales-prediction
 The **Random Forest Regressor** achieved the best performance.
 
 ## 📈 Visualizations
-Sales Trends: Insights into sales patterns over time.
-Feature Importance: Identified key contributors to sales prediction.
-Predictions vs Actuals: Visual comparison of predicted and true sales.
+- **Sales Trends:** Insights into sales patterns over time.
+- **Feature Importance:** Identified key contributors to sales prediction.
+- **Predictions vs Actuals:** Visual comparison of predicted and true sales.
 
 ## 💻 How to Run
 Open and run the report.ipynb notebook step-by-step using Jupyter Notebook or Jupyter Lab:
