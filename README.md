@@ -65,19 +65,19 @@ The **Random Forest Regressor** achieved the best performance.
 - **Predictions vs Actuals:** Visual comparison of predicted and true sales.
 
 ## 💻 How to Run
-Open and run the report.ipynb notebook step-by-step using Jupyter Notebook or Jupyter Lab:
+Open and run the `report.ipynb` notebook step-by-step using Jupyter Notebook or Jupyter Lab:
 
 ```bash
 jupyter notebook report.ipynb
 ```
 
-Alternatively, view the report directly in report.html.
+Alternatively, view the report directly in `report.html`.
 
 ## 🤝 Contributions
 Contributions are welcome! If you'd like to improve the project:
 
 1. Fork the repository.
-2. Create a new branch: git checkout -b feature-branch.
+2. Create a new branch: ``` git checkout -b feature-branch. ```
 3. Submit a pull request.
 
 ## 📬 Contact
