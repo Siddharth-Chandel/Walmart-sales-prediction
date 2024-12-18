@@ -77,7 +77,7 @@ Alternatively, view the report directly in `report.html`.
 Contributions are welcome! If you'd like to improve the project:
 
 1. Fork the repository.
-2. Create a new branch: ``` git checkout -b feature-branch. ```
+2. Create a new branch: ``` git checkout -b feature-branch ```.
 3. Submit a pull request.
 
 ## 📬 Contact
